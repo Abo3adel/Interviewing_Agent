@@ -1,4 +1,4 @@
-# Movie Review Sentiment Analyzer
+# 🗣️ AI Automated Interviewing Agent
 
 ## 📌 Project Overview
 An intelligent, production-ready AI hiring portal built to conduct automated, real-time voice-driven technical interviews. The system simulates a human recruiter (Sarah) by providing a seamless, voice-to-voice interface that eliminates the need for typing, dynamically adapts questions based on candidate profiles, and generates instant hiring decisions.
